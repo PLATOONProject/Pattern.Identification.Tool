@@ -1,0 +1,8 @@
+{
+  "model": "cluster",
+  "granularity": "complete",
+  "start_dt": "2022-01-01",
+  "end_dt": "2022-05-01",
+  "signal": "ai",
+  "concentrator_id": ["ZIV0004409922", "ZIV0004480000"]
+}
